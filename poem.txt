@@ -1,3 +1,5 @@
 This is bad haiku
 This will only make it worse
 This is great haiku
+
+This is new haiku
